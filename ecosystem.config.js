@@ -13,7 +13,7 @@ module.exports = {
     {
       name   : "api-gateway",
       script : "java -jar ./api-gateway/target/Api-Gateway-1.0.0.jar",
-      log_file : "./logs/api-gateway.log",
+      log_file : "./logs/api-gateway.log"
     },
   ]
 }
